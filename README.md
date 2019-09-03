@@ -3,6 +3,8 @@
 
 一直有在用那个屏保WordClock很喜欢，看到有人用安卓做了一个。iOS版的没有比较合适的，所以就写了这个Demo。但是iPhone的壁纸不能像安卓那么强大，网上给的方案用3D Touch的Live Photo也有点蠢，所以这块暂时没什么办法。
 
+![](https://github.com/aosic/WordClock/Resources/review.png)
+
 ### 工程简介
 
 #### ViewController 
